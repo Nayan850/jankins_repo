@@ -1,1 +1,1 @@
-echo "hello python3"
+print "hello python3"
